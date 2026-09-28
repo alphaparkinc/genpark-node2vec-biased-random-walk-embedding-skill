@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-node2vec-biased-random-walk-embedding-skill"
+version = "1.0.0"
+description = "Node2Vec 2nd-order biased random walk generator with return (p) and in-out (q) hyperparameters"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
