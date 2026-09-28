@@ -1,0 +1,20 @@
+{
+  "name": "genpark-node2vec-biased-random-walk-embedding-skill",
+  "version": "1.0.0",
+  "description": "Node2Vec 2nd-order biased random walk generator with return (p) and in-out (q) hyperparameters",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "node2vec",
+    "graph-embedding",
+    "random-walk",
+    "graph-representation-learning",
+    "network-science",
+    "python-standard-library",
+    "agent-skills",
+    "feature-extraction",
+    "graph-mining",
+    "skip-gram"
+  ]
+}
