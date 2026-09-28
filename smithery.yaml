@@ -1,0 +1,6 @@
+name: genpark-node2vec-biased-random-walk-embedding-skill
+version: 1.0.0
+description: Node2Vec 2nd-order biased random walk generator with return (p) and in-out (q) hyperparameters
+command: python
+args:
+  - mcp_server.py
